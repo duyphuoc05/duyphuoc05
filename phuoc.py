@@ -77,7 +77,7 @@ st.markdown("""
 
 # Danh sách game mẫu
 games = [
-    {"id": 1, "name": "Cyber Odyssey", "price": 599000, "genre": "Action RPG", "image": "z6617045808026_9bb4fbfd86d1a1474c7bdd6094cf16d2.jpg", "description": "Game nhập vai hành động với đồ họa đỉnh cao."},
+    {"id": 1, "name": "Cyber Odyssey", "price": 599000, "genre": "Action RPG", "image": "2.jpg", "description": "Game nhập vai hành động với đồ họa đỉnh cao."},
     {"id": 2, "name": "Starlight Tactics", "price": 499000, "genre": "Strategy", "image": "https://via.placeholder.com/200x200.png?text=Starlight+Tactics", "description": "Chiến thuật thời gian thực trong không gian vũ trụ."},
     {"id": 3, "name": "Neon Racer", "price": 299000, "genre": "Racing", "image": "https://via.placeholder.com/200x200.png?text=Neon+Racer", "description": "Đua xe tốc độ cao với hiệu ứng neon rực rỡ."},
     {"id": 4, "name": "Shadow Legends", "price": 799000, "genre": "MMORPG", "image": "https://via.placeholder.com/200x200.png?text=Shadow+Legends", "description": "Thế giới mở rộng lớn với hàng ngàn người chơi."},
