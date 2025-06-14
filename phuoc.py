@@ -1,2 +1,2 @@
 import streamlist as st
-st.title ('dũng ăn cức')
+st.title ('dung ngu')
